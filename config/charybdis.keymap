@@ -17,7 +17,6 @@
         qote {
             bindings = <&kp GRAVE>;
             key-positions = <16 17>;
-            layers = <0>;
         };
         greatt {
             bindings = <&kp LC(LA(P))>;
